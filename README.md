@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Titouan BENOIT**, a passionated software engineer  ⚙️  with entrepreneurial spirit  🚀  and climber  ⛰️
+I'm **Titouan BENOIT**, a passionate software engineer  ⚙️  with entrepreneurial spirit  🚀  and climber  ⛰️
 
 ## Github Stats 📊
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nightbr&show_icons=true&count_private=true" align="center" /></div>  
